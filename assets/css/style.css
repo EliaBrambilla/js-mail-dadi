@@ -1,9 +1,15 @@
 body{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: lightgray;
+    background-color: black;
 }
 
 .es1{
     background-color: blueviolet;
     margin: 50px auto;
+    border-radius: 25px;
+}
+
+.es2{
+    background-color: cadetblue;
+    border-radius: 25px;
 }
